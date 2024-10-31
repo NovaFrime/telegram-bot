@@ -50,11 +50,11 @@ const help_options = {
         inline_keyboard: [
             [
                 {
-                    text: "Bạn muốn nhận quà bằng cách nào?",
+                    text: "Cách thức nhận quà",
                     callback_data: 'nhanqua' 
                 },
                 {
-                    text: "Quy đổi phẩn thưởng như thế nào?",
+                    text: "Cách thức đổi thưởng",
                     callback_data: 'doithuong' 
                 },
             ],
